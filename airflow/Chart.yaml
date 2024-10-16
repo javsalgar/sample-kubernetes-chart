@@ -32,7 +32,7 @@ dependencies:
   repository: oci://registry-1.docker.io/bitnamicharts
   tags:
   - bitnami-common
-  version: 2.19.3
+  version: 2.26.0
 description: Apache Airflow is a tool to express and execute workflows as directed acyclic graphs (DAGs). It includes utilities to schedule tasks, monitor task progress and handle task dependencies.
 home: https://bitnami.com
 icon: https://bitnami.com/assets/stacks/airflow/img/airflow-stack-220x234.png
